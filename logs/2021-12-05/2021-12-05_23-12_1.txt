@@ -1,0 +1,20 @@
+2021-12-05 23:12:00 [pool-2-thread-15] [pickUpOrder] [32] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №15 is been served at food stock
+2021-12-05 23:12:00 [pool-2-thread-8] [pickUpOrder] [39] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №8 got his order and released food stock
+2021-12-05 23:12:00 [pool-2-thread-15] [pickUpOrder] [39] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №15 got his order and released food stock
+2021-12-05 23:12:00 [pool-2-thread-19] [pickUpOrder] [32] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №19 is been served at food stock
+2021-12-05 23:12:00 [pool-2-thread-8] [run] [41] INFO  by.zvezdina.multithreading.entity.Customer - Customer №8 left McDonald's
+2021-12-05 23:12:00 [pool-2-thread-15] [run] [41] INFO  by.zvezdina.multithreading.entity.Customer - Customer №15 left McDonald's
+2021-12-05 23:12:01 [pool-2-thread-5] [acceptOrder] [39] INFO  by.zvezdina.multithreading.entity.CashDesk - cashdesk 1 queue size 0
+2021-12-05 23:12:01 [pool-2-thread-5] [run] [32] INFO  by.zvezdina.multithreading.entity.Customer - Customer №5 found shortest queue at desk №1
+2021-12-05 23:12:01 [pool-2-thread-5] [run] [38] INFO  by.zvezdina.multithreading.entity.Customer - Customer №5 lined up to food stock
+2021-12-05 23:12:02 [pool-2-thread-6] [pickUpOrder] [32] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №6 is been served at food stock
+2021-12-05 23:12:02 [pool-2-thread-19] [pickUpOrder] [39] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №19 got his order and released food stock
+2021-12-05 23:12:02 [pool-2-thread-19] [run] [41] INFO  by.zvezdina.multithreading.entity.Customer - Customer №19 left McDonald's
+2021-12-05 23:12:03 [pool-2-thread-6] [pickUpOrder] [39] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №6 got his order and released food stock
+2021-12-05 23:12:03 [pool-2-thread-10] [pickUpOrder] [32] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №10 is been served at food stock
+2021-12-05 23:12:03 [pool-2-thread-6] [run] [41] INFO  by.zvezdina.multithreading.entity.Customer - Customer №6 left McDonald's
+2021-12-05 23:12:06 [pool-2-thread-5] [pickUpOrder] [32] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №5 is been served at food stock
+2021-12-05 23:12:06 [pool-2-thread-10] [pickUpOrder] [39] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №10 got his order and released food stock
+2021-12-05 23:12:06 [pool-2-thread-10] [run] [41] INFO  by.zvezdina.multithreading.entity.Customer - Customer №10 left McDonald's
+2021-12-05 23:12:09 [pool-2-thread-5] [pickUpOrder] [39] INFO  by.zvezdina.multithreading.entity.FoodStock - Customer №5 got his order and released food stock
+2021-12-05 23:12:09 [pool-2-thread-5] [run] [41] INFO  by.zvezdina.multithreading.entity.Customer - Customer №5 left McDonald's

@@ -1,0 +1,2 @@
+2021-12-05 23:24:32 [main] [readFile] [35] INFO  zvezdina.multithreading.reader.impl.CustomReaderImpl - File data/info.txt was read, content: 3 20
+2021-12-05 23:24:32 [main] [parseLine] [20] INFO  zvezdina.multithreading.parser.impl.CustomParserImpl - Result of parsing line: [3, 20]
